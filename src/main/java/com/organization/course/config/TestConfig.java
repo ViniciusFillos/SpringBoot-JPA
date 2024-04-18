@@ -3,7 +3,6 @@ package com.organization.course.config;
 import com.organization.course.entities.*;
 import com.organization.course.entities.enums.OrderStatus;
 import com.organization.course.repositories.*;
-import org.aspectj.weaver.ast.Or;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
